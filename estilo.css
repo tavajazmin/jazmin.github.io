@@ -1,4 +1,5 @@
 body{
+    background-image: url(img/flores-amarillas-10724.webp);
 background-color: rgb(139, 91, 31);
 }
 div{
@@ -8,4 +9,6 @@ div{
 article{
     background-color: rgb(206, 161, 78);
 }
-
+footer{
+    background-color: rgb(161, 120, 42);
+}
